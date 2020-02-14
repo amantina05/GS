@@ -20,3 +20,17 @@ form div {
   margin: 1em;
   display: inline-block;
 }
+
+.warning {
+  padding: 0 0.5em;
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  background-color: orange;
+  color: white;
+  margin-left: 1em;
+}
+
+.about-me {
+  /* background-image: url('IMG_0631.JPG'); */
+  /* background-size: cover; */
+}
