@@ -30,7 +30,10 @@ class Contact extends Component {
       <div>
         <h1> Connect with me!</h1>
         <h2>Instagram:</h2>
+        <h3>_Joannethegroomer</h3>
         <h2>Twitter:</h2>
+        <h2>Email: </h2>
+        <h3>Joannethegroomer@gmail.com</h3>
 
         <h1> Contact Me: </h1>
         <form
